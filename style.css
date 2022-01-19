@@ -1,0 +1,23 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    color: #aaa;
+    background-color: #222;;
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+}
+
+h1,h2 {
+    color: #ccc;
+}
+
+h1 {
+    font-family: 'Bitter', serif ;
+}
+
+h2{
+    font-family: 'Caudex', serif;
+}
+
