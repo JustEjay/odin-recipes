@@ -21,3 +21,8 @@ h2{
     font-family: 'Caudex', serif;
 }
 
+.recipe-img {
+    height: auto;
+    width: 700px;
+}
+
